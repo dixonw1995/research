@@ -1,1 +1,2 @@
 surfaceview: http://androidtrainningcenter.blogspot.hk/2012/01/how-to-use-android-camera-to-take.html
+https://inducesmile.com/android/android-camera2-api-example-tutorial/
